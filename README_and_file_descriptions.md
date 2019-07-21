@@ -1,7 +1,9 @@
-# Charitysciencehealth
+## Charitysciencehealth
 This is datawork that I have done for Charity Science health
 
-File descriptions
+None of the files contain any personal or sensitive data because this repository is publc and it is necessary to link the survey CTO raw data to the file structure using the globals at the top of each dofile in order to make them work.
+
+#File descriptions
 
 1. IDI_report_v6_June.do
 STATA do file which generated a distribution report for IDinsight for the month of june based on enrollment data from Survey CTO that was cleaned in a seperate dofile. Unable to use without the corresponding cleaned .dta
